@@ -29,7 +29,7 @@ public class Alan {
 
 ##  Proyectos destacados
 
-###  [eventosui3f.com.ar](https://eventosui3f.com.ar) — App de ronda de negocios
+###  [eventosui3f.org.ar](https://eventosui3f.org.ar) — App de ronda de negocios
 > Plataforma para gestionar rondas de negocios entre empresas PyME.
 
 - Autenticación con Spring Security · Lógica de matcheo · Gestión de reuniones
